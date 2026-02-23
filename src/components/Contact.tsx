@@ -107,7 +107,7 @@ export default function Contact() {
             <div className="rounded-xl overflow-hidden shadow-md border border-gray-100 h-48 md:h-52">
               <iframe
                 title="Hansvahini Cold Location"
-                src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d1608.5524090897668!2d72.11076629702364!3d21.43380683224562!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMjHCsDI2JzAyLjQiTiA3MsKwMDYnMzguNiJF!5e1!3m2!1sen!2sin!4v1771836872808!5m2!1sen!2sin"
+                src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d9594.20013751226!2d72.110766!3d21.433807!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be1f108dad1b9cf%3A0x77d39f5c39e39e99!2sHansvahini%20Cold!5e1!3m2!1sen!2sin!4v1771848256819!5m2!1sen!2sin"
                 width="100%"
                 height="100%"
                 style={{ border: 0 }}
