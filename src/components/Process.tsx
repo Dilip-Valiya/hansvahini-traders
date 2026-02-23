@@ -55,7 +55,8 @@ export default function Process() {
             Our Process
           </span>
           <h2 className="text-3xl md:text-4xl font-extrabold text-secondary mb-4">
-            How We <span className="text-primary">Work</span>
+            Our PUF Panel{" "}
+            <span className="text-primary">Manufacturing Process</span>
           </h2>
           <p className="text-secondary-light max-w-2xl mx-auto text-lg">
             From initial consultation to final installation, we ensure a

@@ -51,7 +51,8 @@ export default function Contact() {
             Contact Us
           </span>
           <h2 className="text-3xl md:text-4xl font-extrabold text-secondary mb-4">
-            Let's Build <span className="text-primary">Together</span>
+            Contact Us for{" "}
+            <span className="text-primary">PUF Panel Solutions</span>
           </h2>
           <p className="text-secondary-light max-w-2xl mx-auto text-lg">
             Get in touch for quotes, technical consultation, or any queries

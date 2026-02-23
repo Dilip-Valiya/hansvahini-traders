@@ -72,7 +72,8 @@ export default function Specifications() {
             Specifications
           </span>
           <h2 className="text-3xl md:text-4xl font-extrabold text-secondary mb-4">
-            PUF Panel <span className="text-primary">Dimensions</span>
+            PUF Panel{" "}
+            <span className="text-primary">Specifications & Dimensions</span>
           </h2>
           <p className="text-secondary-light max-w-2xl mx-auto text-lg">
             Technical specifications for our roof and wall sandwich PUF panels —

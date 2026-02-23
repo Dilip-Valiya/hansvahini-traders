@@ -76,7 +76,8 @@ export default function Stats() {
       <div className="relative z-10 max-w-7xl mx-auto px-4">
         <div className="text-center mb-14">
           <h2 className="text-3xl md:text-4xl font-extrabold text-white mb-3">
-            Numbers That <span className="text-primary">Speak</span>
+            Trusted PUF Panel <span className="text-primary">Manufacturer</span>{" "}
+            in Numbers
           </h2>
           <p className="text-white/60 max-w-lg mx-auto">
             Our track record of excellence reflected through the trust of our

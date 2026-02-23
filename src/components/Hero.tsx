@@ -136,7 +136,9 @@ export default function Hero() {
               className="text-3xl md:text-5xl lg:text-6xl font-extrabold text-white leading-tight mb-3 md:mb-4 animate-fade-in-up"
             >
               {slides[current].title}
-              <span className="block text-primary mt-1 md:mt-2">& Traders</span>
+              <span className="block text-primary mt-1 md:mt-2">
+                PUF Panel & Cold Storage Solutions
+              </span>
             </h1>
 
             <p
