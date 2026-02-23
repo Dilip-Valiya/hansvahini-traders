@@ -62,7 +62,7 @@ export default function About() {
                   </div>
                   <div>
                     <p className="font-bold text-secondary text-lg">
-                      10+ Years
+                      25+ Years
                     </p>
                     <p className="text-secondary-light text-sm">
                       of Manufacturing Excellence
